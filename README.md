@@ -1,4 +1,4 @@
-# Copilot Skills Collection
+# AI Skills Collection
 
 This repository contains some skills that I regularly used in day to day operation. 
 
